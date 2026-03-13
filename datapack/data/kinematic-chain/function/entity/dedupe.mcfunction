@@ -1,0 +1,2 @@
+execute as @e[tag=sTendril.tip] store result entity @s data.count byte 1 if entity @e[tag=sTendril.tip]
+execute if entity @e[tag=sTendril.tip,nbt=!{data:{count:1b}}] run function kinematic-chain:entity/load

@@ -1,0 +1,2 @@
+execute facing entity @e[tag=sTendril.mouthTarget,distance=0.15..] eyes run tp @s ^ ^ ^0.15
+execute if entity @e[tag=sTendril.mouthTarget,distance=0.15..] run playsound minecraft:block.honey_block.slide block @a ~ ~ ~ 1 .5

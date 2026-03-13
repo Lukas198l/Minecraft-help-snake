@@ -1,0 +1,17 @@
+execute as @e[tag=sTendril.tip] at @s run tp @e[tag=sTendril.tip_1] ~ ~-2 ~
+execute as @e[tag=sTendril.seg16] at @s run tp @e[tag=sTendril.seg16_1] ~ ~-2 ~
+execute as @e[tag=sTendril.seg15] at @s run tp @e[tag=sTendril.seg15_1] ~ ~-2 ~
+execute as @e[tag=sTendril.seg14] at @s run tp @e[tag=sTendril.seg14_1] ~ ~-2 ~
+execute as @e[tag=sTendril.seg13] at @s run tp @e[tag=sTendril.seg13_1] ~ ~-2 ~
+execute as @e[tag=sTendril.seg12] at @s run tp @e[tag=sTendril.seg12_1] ~ ~-2 ~
+execute as @e[tag=sTendril.seg11] at @s run tp @e[tag=sTendril.seg11_1] ~ ~-2 ~
+execute as @e[tag=sTendril.seg10] at @s run tp @e[tag=sTendril.seg10_1] ~ ~-2 ~
+execute as @e[tag=sTendril.seg9] at @s run tp @e[tag=sTendril.seg9_1] ~ ~-2 ~
+execute as @e[tag=sTendril.seg8] at @s run tp @e[tag=sTendril.seg8_1] ~ ~-2 ~
+execute as @e[tag=sTendril.seg7] at @s run tp @e[tag=sTendril.seg7_1] ~ ~-2 ~
+execute as @e[tag=sTendril.seg6] at @s run tp @e[tag=sTendril.seg6_1] ~ ~-2 ~
+execute as @e[tag=sTendril.seg5] at @s run tp @e[tag=sTendril.seg5_1] ~ ~-2 ~
+execute as @e[tag=sTendril.seg4] at @s run tp @e[tag=sTendril.seg4_1] ~ ~-2 ~
+execute as @e[tag=sTendril.seg3] at @s run tp @e[tag=sTendril.seg3_1] ~ ~-2 ~
+execute as @e[tag=sTendril.seg2] at @s run tp @e[tag=sTendril.seg2_1] ~ ~-2 ~
+execute as @e[tag=sTendril.seg1] at @s run tp @e[tag=sTendril.seg1_1] ~ ~-2 ~

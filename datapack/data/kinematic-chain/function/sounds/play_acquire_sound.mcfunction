@@ -1,0 +1,1 @@
+execute at @e[tag=sTendril.tip] run playsound minecraft:block.sculk_sensor.clicking block @a ~ ~ ~ 1 0

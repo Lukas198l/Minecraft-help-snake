@@ -1,0 +1,2 @@
+execute facing entity @e[tag=sTendril.carrotTarget,distance=0.25..] eyes run tp @s ^ ^ ^0.25
+execute if entity @e[tag=sTendril.carrotTarget,distance=0.25..] run playsound minecraft:block.honey_block.slide block @a ~ ~ ~ 1 .5

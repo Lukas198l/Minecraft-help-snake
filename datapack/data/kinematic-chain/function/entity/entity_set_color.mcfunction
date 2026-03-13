@@ -1,0 +1,2 @@
+execute if entity @e[tag=sTendril.chickenHeld] run item replace entity @e[tag=sTendril.tip_1] armor.head with minecraft:paper[custom_model_data=10]
+execute if entity @e[tag=!sTendril.chickenHeld] run item replace entity @e[tag=sTendril.tip_1] armor.head with minecraft:paper[custom_model_data=11]

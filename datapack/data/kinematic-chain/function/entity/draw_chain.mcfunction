@@ -1,0 +1,12 @@
+execute at @e[tag=sTendril.thin] run particle minecraft:bubble ^ ^ ^0 0 0 0 0 1
+execute at @e[tag=sTendril.thin] run particle minecraft:bubble ^ ^ ^0.2 0 0 0 0 1
+execute at @e[tag=sTendril.thin] run particle minecraft:bubble ^ ^ ^0.4 0 0 0 0 1
+execute at @e[tag=sTendril.mid] run particle minecraft:bubble ^ ^ ^0 0.05 0.05 0.05 0 2
+execute at @e[tag=sTendril.mid] run particle minecraft:bubble ^ ^ ^0.2 0.05 0.05 0.05 0 2
+execute at @e[tag=sTendril.mid] run particle minecraft:bubble ^ ^ ^0.4 0.05 0.05 0.05 0 2
+execute at @e[tag=sTendril.thick] run particle minecraft:bubble ^ ^ ^0 0.1 0.1 0.1 0 4
+execute at @e[tag=sTendril.thick] run particle minecraft:bubble ^ ^ ^0.2 0.1 0.1 0.1 0 4
+execute at @e[tag=sTendril.thick] run particle minecraft:bubble ^ ^ ^0.4 0.1 0.1 0.1 0 4
+execute at @e[tag=sTendril.thickest] run particle minecraft:bubble ^ ^ ^0 0.15 0.15 0.15 0 6
+execute at @e[tag=sTendril.thickest] run particle minecraft:bubble ^ ^ ^0.2 0.15 0.15 0.15 0 6
+execute at @e[tag=sTendril.thickest] run particle minecraft:bubble ^ ^ ^0.4 0.15 0.15 0.15 0 6

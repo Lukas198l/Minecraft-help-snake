@@ -1,0 +1,3 @@
+execute at @e[tag=sTendril.tip] unless entity @e[tag=sTendril.chickenTarget] unless entity @e[tag=sTendril.chickenHeld] as @e[type=#kinematic-chain:hostile,sort=nearest,limit=1] run function kinematic-chain:sonstiges/acquire_chicken
+execute as @e[tag=sTendril.tip] at @s[tag=!sTendril.frozen] run function kinematic-chain:follow/follow_chicken_target
+execute as @e[tag=sTendril.chickenTarget] at @s anchored eyes if entity @e[tag=sTendril.tip,distance=..3.0] run function kinematic-chain:reached/reached_chicken_target

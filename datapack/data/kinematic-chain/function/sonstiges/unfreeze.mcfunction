@@ -1,0 +1,1 @@
+tag @e[tag=sTendril.tip] remove sTendril.frozen
